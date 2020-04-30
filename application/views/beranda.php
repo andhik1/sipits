@@ -17,7 +17,7 @@
         <div class="container">
             <?php include("menu_bar.php") ?>
             <div class="col-md-7 infoheader">
-                <h1><strong>SIPITS</strong></h1>
+                <h1><strong>SIPITSSSSSS</strong></h1>
                 <h3>Sistem Informasi Pendataan Institut Teknologi Sepuluh Nopember</h3>
                 <h4>Sistem ini bertujuan untuk pendataan yang digunakan dalam kegiatan penelitian di ITS. Diantaranya untuk kerjasama penelitian, Pengadaan asisten peneliti, Klinik makalah publikasi ilmiah, dan Program Percepatan Publikasi Internasional.</h4>
             </div>
